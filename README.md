@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Future+SDE+Manager;System+Design+Enthusiast&center=true&width=500&height=50)
+
 # 👋 Hi, I'm Krish
 
 🚀 Aspiring Software Engineer
@@ -21,6 +23,13 @@
 * 🗄️ Database: MySQL
 * 🐳 Tools: Docker, Git
 
+## 🧰 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+
 ---
 
 ## 📌 Projects
@@ -28,6 +37,11 @@
 * ⚡ Electricity Billing System
 * 🧾 PDF Receipt Generator
 * 📊 Data Science Models
+
+## 📈 GitHub Stats
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
