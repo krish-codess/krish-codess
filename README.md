@@ -104,9 +104,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-codess&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-codess&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -114,7 +114,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-codess&theme=tokyo-night" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/krish-codess/krish-codess/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -135,4 +135,4 @@
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/krish-codess)
